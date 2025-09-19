@@ -8,8 +8,8 @@ namespace Orassan
 {
     public class IncidentWorker_PortalRaid : IncidentWorker_RaidEnemy
     {
-        protected override bool FactionCanBeGroupSource(Faction f, Map map, bool desperate = false) =>
-            base.FactionCanBeGroupSource(f, map, desperate) && f.def == OrassanDefOf.Orassan;
+        public override bool FactionCanBeGroupSource(Faction f, IncidentParms parms, bool desperate = false) =>
+            base.FactionCanBeGroupSource(f, parms, desperate) && f.def == OrassanDefOf.Orassan;
 
         /*protected override bool CanFireNowSub(IIncidentTarget target) => 
             base.CanFireNowSub(target) && Find.FactionManager.AllFactionsVisible.Any((Faction x) => x.def.defName.Equals("Orassan") && x.HostileTo(Faction.OfPlayer));*/

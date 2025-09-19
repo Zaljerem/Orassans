@@ -7,7 +7,7 @@ namespace Orassan
     {
         protected override void Impact(Thing hitThing, bool blockedByShield = false)
         {
-            GenExplosion.DoExplosion(base.Position, this.Map, this.def.projectile.explosionRadius, this.def.projectile.damageDef, this.launcher, def.projectile.GetDamageAmount(1f),
+            GenExplosion.DoExplosion(base.Position, this.Map, this.def.projectile.explosionRadius, this.def.projectile.damageDef, this.launcher, def.projectile.GetDamageAmount(this.launcher),
                 -1, null, this.def, this.equipmentDef, null);
             SnowCreation(base.Position, this.def.projectile.explosionRadius, this.Map);
             CellRect cellRect = CellRect.CenteredOn(base.Position, 3);
@@ -24,7 +24,7 @@ namespace Orassan
         protected void IceExplosion(IntVec3 pos, float radius, Map map)
         {
             ThingDef def = this.def;
-            GenExplosion.DoExplosion(pos, map, radius, this.def.projectile.damageDef, this.launcher, def.projectile.GetDamageAmount(1f), 
+            GenExplosion.DoExplosion(pos, map, radius, this.def.projectile.damageDef, this.launcher, def.projectile.GetDamageAmount(this.launcher), 
                 -1, null, def, this.equipmentDef, null);
         }
 

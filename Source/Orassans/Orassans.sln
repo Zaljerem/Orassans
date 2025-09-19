@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.9.34701.34
+VisualStudioVersion = 17.14.36429.23 d17.14
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Orassans", "Orassans.csproj", "{EDBC2C47-C955-4034-A212-C06B18BCBCAE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Orassans", "Orassans.csproj", "{02C14134-91AC-C28B-144F-9A606C5566FB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{EDBC2C47-C955-4034-A212-C06B18BCBCAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{EDBC2C47-C955-4034-A212-C06B18BCBCAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{EDBC2C47-C955-4034-A212-C06B18BCBCAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{EDBC2C47-C955-4034-A212-C06B18BCBCAE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02C14134-91AC-C28B-144F-9A606C5566FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02C14134-91AC-C28B-144F-9A606C5566FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02C14134-91AC-C28B-144F-9A606C5566FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02C14134-91AC-C28B-144F-9A606C5566FB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {36446F04-512E-4336-A46B-26F117ED4FC9}
+		SolutionGuid = {9F68BD7D-62B5-49AD-85A4-377CF06E7A04}
 	EndGlobalSection
 EndGlobal
