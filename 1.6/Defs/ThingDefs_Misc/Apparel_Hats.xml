@@ -40,6 +40,7 @@
          <PsychicSensitivity>-1</PsychicSensitivity>
 		<HypoxiaResistance MayRequire="kentington.saveourship2">1</HypoxiaResistance>
 		<DecompressionResistance MayRequire="kentington.saveourship2">0.25</DecompressionResistance>
+		<VacuumResistance MayRequire="Ludeon.RimWorld.Odyssey">0.69</VacuumResistance>
     </equippedStatOffsets>
     <costList>
       <ComponentSpacer>1</ComponentSpacer>
@@ -109,6 +110,7 @@
 		 <SocialImpact>0.10</SocialImpact>
 		<HypoxiaResistance MayRequire="kentington.saveourship2">1</HypoxiaResistance>
 		<DecompressionResistance MayRequire="kentington.saveourship2">0.25</DecompressionResistance>
+		<VacuumResistance MayRequire="Ludeon.RimWorld.Odyssey">0.69</VacuumResistance>
     </equippedStatOffsets>
     <costList>
       <ComponentSpacer>1</ComponentSpacer>

@@ -85,12 +85,13 @@
 			<ArmorRating_Sharp>0.35</ArmorRating_Sharp>
 			<ArmorRating_Heat>0.95</ArmorRating_Heat>
 			<Insulation_Cold>120</Insulation_Cold>
-			<Insulation_Heat>75</Insulation_Heat>
+			<Insulation_Heat>75</Insulation_Heat>			
 		</statBases>
 		<equippedStatOffsets>
       <ToxicEnvironmentResistance MayRequire="Ludeon.RimWorld.Biotech">1</ToxicEnvironmentResistance>
 		<DecompressionResistance MayRequire="kentington.saveourship2">0.75</DecompressionResistance>
 		<VacuumSpeedMultiplier MayRequire="kentington.saveourship2">4</VacuumSpeedMultiplier>
+		<VacuumResistance MayRequire="Ludeon.RimWorld.Odyssey">0.32</VacuumResistance>
 		</equippedStatOffsets>
 		<thingCategories>
 			<li>Apparel</li>
@@ -164,6 +165,7 @@
 			<CarryingCapacity>100</CarryingCapacity>
 		<DecompressionResistance MayRequire="kentington.saveourship2">0.75</DecompressionResistance>
 		<VacuumSpeedMultiplier MayRequire="kentington.saveourship2">4</VacuumSpeedMultiplier>
+		<VacuumResistance MayRequire="Ludeon.RimWorld.Odyssey">0.42</VacuumResistance>
 		</equippedStatOffsets>
 		<thingCategories>
 		   <li>ApparelArmor</li>
@@ -227,7 +229,7 @@
 		</statBases>
 		<equippedStatOffsets>
 			<ShootingAccuracyPawn>.1</ShootingAccuracyPawn>
-			<CarryingCapacity>100</CarryingCapacity>
+			<CarryingCapacity>100</CarryingCapacity>			
 		</equippedStatOffsets>
 		<thingCategories>
 			<li>ApparelArmor</li>
@@ -452,6 +454,7 @@
 	<equippedStatOffsets>
 		<DecompressionResistance MayRequire="kentington.saveourship2">0.75</DecompressionResistance>
 		<VacuumSpeedMultiplier MayRequire="kentington.saveourship2">4</VacuumSpeedMultiplier>
+		<VacuumResistance MayRequire="Ludeon.RimWorld.Odyssey">0.32</VacuumResistance>
 	</equippedStatOffsets>
     <apparel>
       <bodyPartGroups>
