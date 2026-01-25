@@ -30,6 +30,7 @@
       <chairSearchRadius>8</chairSearchRadius>
     </ingestible>
     <storedConceptLearnOpportunity>DrugPolicies</storedConceptLearnOpportunity>
+	<orderedTakeGroup>Drug</orderedTakeGroup>
   </ThingDef>
   
   <ThingDef ParentName="DrugJuiceBase">

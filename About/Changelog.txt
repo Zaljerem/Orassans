@@ -1,3 +1,5 @@
 1.0.0 - 9/19/2025 - updated from 1.5 to 1.6
 
 1.0.1 - 9/23/2025 - added Odyssey vacuum resistance to relevant clothing items
+
+1.0.2 - 1/19/2026 - fix to drug base, thanks ignis!
