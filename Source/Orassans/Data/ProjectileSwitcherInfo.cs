@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using Verse;
 
-namespace Orassans
+namespace Orassan
 {
     public class ProjectileSwitcherInfo
     {

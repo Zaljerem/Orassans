@@ -7,4 +7,13 @@
 	<BetharianBorerDrilling>Boring progress: {0}</BetharianBorerDrilling>
 	<BetharianBorerFinishedLabel>Betharian borer finished</BetharianBorerFinishedLabel>
     <BetharianBorerFinishedText>The betharian borer machine has finished. Deconstruct it and build a power plant over the bore hole.</BetharianBorerFinishedText>
+	
+	
+	<OrassansModName>Orassans</OrassansModName>
+	<OrassansLitterSizeCurve>Litter Size Curve</OrassansLitterSizeCurve>
+	<OrassansAffectsBoth>(This affects both full Orassans and hybrids)</OrassansAffectsBoth>
+	<OrassansMustRestart>- YOU MUST RESTART FOR CHANGES TO TAKE EFFECT! -</OrassansMustRestart>
+	<OrassansOrassanDefault>Orassan Default</OrassansOrassanDefault>
+	<OrassansHumanDefault>Human Default</OrassansHumanDefault>
+	
 </LanguageData>

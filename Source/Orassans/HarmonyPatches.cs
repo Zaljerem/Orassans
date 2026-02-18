@@ -5,13 +5,14 @@ using System.Linq;
 using System.Reflection;
 using System.Reflection.Emit;
 using HarmonyLib;
-using Orassans;
 using RimWorld;
 using UnityEngine;
 using Verse;
+using Orassans;
 
-namespace Orassans
-{
+namespace Orassan
+{ 
+
 	public static class HarmonyPatches
 	{
 

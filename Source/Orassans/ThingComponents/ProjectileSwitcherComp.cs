@@ -2,7 +2,7 @@
 using System.Linq;
 using Verse;
 
-namespace Orassans
+namespace Orassan
 {
     public class ProjectileSwitcherComp : ThingComp
     {

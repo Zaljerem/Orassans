@@ -11,11 +11,13 @@
   <PropertyGroup />
   <ItemGroup>   
     <PackageReference Include="Krafs.Rimworld.Ref" Version="1.6.*-*" />
-    <PackageReference Include="Lib.Harmony" Version="2.4.1" />	
+    <PackageReference Include="Lib.Harmony" ExcludeAssets="runtime">
+            <Version>2.4.2</Version>
+        </PackageReference>	
   </ItemGroup>
   <ItemGroup>
     <Reference Include="AlienRace">
-      <HintPath>..\..\..\!16\AlienRace.dll</HintPath>
+      <HintPath>..\..\..\..\..\Users\conse\Desktop\!Reference Assemblies\AlienRace.dll</HintPath>
       <Private>False</Private>
     </Reference>
   </ItemGroup>

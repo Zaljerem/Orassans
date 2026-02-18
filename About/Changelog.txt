@@ -3,3 +3,5 @@
 1.0.1 - 9/23/2025 - added Odyssey vacuum resistance to relevant clothing items
 
 1.0.2 - 1/19/2026 - fix to drug base, thanks ignis!
+
+1.0.3 - 1/19/2026 - added mod option to select between Human and Orassan litter sizes

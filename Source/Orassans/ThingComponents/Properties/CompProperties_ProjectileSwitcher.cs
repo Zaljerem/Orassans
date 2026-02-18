@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using Verse;
 
-namespace Orassans
+namespace Orassan
 {
     public class CompProperties_ProjectileSwitcher : CompProperties
     {
